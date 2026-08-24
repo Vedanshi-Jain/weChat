@@ -18,5 +18,6 @@ TECH STACK:
 
 <img width="1919" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4e8bee9e-d4a7-4cb7-a463-091bc429bea4" />
 
-<img width="1919" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4e8bee9e-d4a7-4cb7-a463-091bc429bea4" />
+
+<img width="1911" height="1023" alt="Image" src="https://github.com/user-attachments/assets/cc016863-2ddf-444f-bae7-4a667692ad71" />
  

@@ -17,4 +17,6 @@ TECH STACK:
 4.DEVELOPMENT TOOLS: Nodemon
 
 <img width="1919" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4e8bee9e-d4a7-4cb7-a463-091bc429bea4" />
+
+<img width="1919" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4e8bee9e-d4a7-4cb7-a463-091bc429bea4" />
  

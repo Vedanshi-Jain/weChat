@@ -16,6 +16,10 @@ TECH STACK:
 3.REAL-TIME ENGINE: Socket.io
 4.DEVELOPMENT TOOLS: Nodemon
 
+NOTE:
+1.Install nodemon globally or as a dependency (recommended) by typing "npm i nodemon" in the terminal.
+2.Start the server by typing "nodemon .\index.js" in the terminal.
+
 <img width="1919" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4e8bee9e-d4a7-4cb7-a463-091bc429bea4" />
 
 
